@@ -1,4 +1,4 @@
-# Caps-Hockey-Game
+# Unity-Caps-Hockey-Game
 Control:
 Start round - "Space"
 Arenas 1-6 - "1","2","3","4","5","6"
